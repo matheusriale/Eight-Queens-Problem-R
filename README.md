@@ -1,2 +1,2 @@
 # Eight-Queens-Problem-R
-A genetic alghorithm in R to the eight queens problem.
+A genetic algorithm in R to the eight queens problem.
